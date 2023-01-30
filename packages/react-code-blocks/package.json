@@ -1,5 +1,5 @@
 {
-  "name": "react-code-blocks",
+  "name": "react-code-blocks-latest",
   "description": "Modified Atlaskit's Code Block to support more languages (i.e graphql, reasonml, etc) and theme (i.e railscast, darcula, monokai, etc) code snippets!",
   "keywords": [
     "code-snippets",
