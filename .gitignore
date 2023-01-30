@@ -8,3 +8,9 @@ packages/**/dist
 .vercel
 demo/build
 .netlify
+/.idea/.gitignore
+/.idea/jpa-buddy.xml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/react-code-blocks.iml
+/.idea/vcs.xml
